@@ -1,0 +1,21 @@
+<a href="https://www.mediafire.com/file/3te388yfsf82rki/Minecraft_Mod_Installer_1.21.130%252B.zip/file" target="_blank" class="download-btn">
+🎮 Baixar Jogo para PC
+</a>
+
+<style>
+.download-btn {
+  display: inline-block;
+  padding: 20px 35px;
+  background: linear-gradient(45deg, #ff512f, #dd2476);
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  transform: scale(1.08);
+}
+</style>
